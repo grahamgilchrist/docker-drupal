@@ -2,7 +2,7 @@
 
 Dockerfile repo for a php and apache container for running Drupal 6-7 sites
 
-Available from the the docker hub regsitry as `grahamgilchrist\php-drupal`
+Available from the the docker hub registry as `grahamgilchrist\php-drupal`
 
 ## Background
 Repo structure is based on the same version folder convention as official docker hub repos (e.g. python: https://github.com/docker-library/python)
